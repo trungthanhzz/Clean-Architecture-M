@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\MISA-Web\\web202307\\mf1743-dtthanh\\aspnetcoreapi\\MISA.WebFresher\\MISA.WebFresher.Infrastructor\\MISA.WebFresher.Infrastructor.csproj": {}
+  },
+  "projects": {
+    "D:\\MISA-Web\\web202307\\mf1743-dtthanh\\aspnetcoreapi\\MISA.WebFresher\\MISA.WebFresher.Infrastructor\\MISA.WebFresher.Infrastructor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MISA-Web\\web202307\\mf1743-dtthanh\\aspnetcoreapi\\MISA.WebFresher\\MISA.WebFresher.Infrastructor\\MISA.WebFresher.Infrastructor.csproj",
+        "projectName": "MISA.WebFresher.Infrastructor",
+        "projectPath": "D:\\MISA-Web\\web202307\\mf1743-dtthanh\\aspnetcoreapi\\MISA.WebFresher\\MISA.WebFresher.Infrastructor\\MISA.WebFresher.Infrastructor.csproj",
+        "packagesPath": "C:\\Users\\May Tinh Hoang Ky\\.nuget\\packages\\",
+        "outputPath": "D:\\MISA-Web\\web202307\\mf1743-dtthanh\\aspnetcoreapi\\MISA.WebFresher\\MISA.WebFresher.Infrastructor\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\May Tinh Hoang Ky\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

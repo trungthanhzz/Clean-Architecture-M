@@ -1,0 +1,15 @@
+D:\MISA-Web\web202307\mf1743-dtthanh\aspnetcoreapi\MISA.WebFresher\MISA.WebFresher.Application\bin\Debug\net6.0\MISA.WebFresher.Application.deps.json
+D:\MISA-Web\web202307\mf1743-dtthanh\aspnetcoreapi\MISA.WebFresher\MISA.WebFresher.Application\bin\Debug\net6.0\MISA.WebFresher.Application.dll
+D:\MISA-Web\web202307\mf1743-dtthanh\aspnetcoreapi\MISA.WebFresher\MISA.WebFresher.Application\bin\Debug\net6.0\MISA.WebFresher.Application.pdb
+D:\MISA-Web\web202307\mf1743-dtthanh\aspnetcoreapi\MISA.WebFresher\MISA.WebFresher.Application\bin\Debug\net6.0\MISA.WebFresher.Domain.dll
+D:\MISA-Web\web202307\mf1743-dtthanh\aspnetcoreapi\MISA.WebFresher\MISA.WebFresher.Application\bin\Debug\net6.0\MISA.WebFresher.Domain.pdb
+D:\MISA-Web\web202307\mf1743-dtthanh\aspnetcoreapi\MISA.WebFresher\MISA.WebFresher.Application\obj\Debug\net6.0\MISA.WebFresher.Application.csproj.AssemblyReference.cache
+D:\MISA-Web\web202307\mf1743-dtthanh\aspnetcoreapi\MISA.WebFresher\MISA.WebFresher.Application\obj\Debug\net6.0\MISA.WebFresher.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\MISA-Web\web202307\mf1743-dtthanh\aspnetcoreapi\MISA.WebFresher\MISA.WebFresher.Application\obj\Debug\net6.0\MISA.WebFresher.Application.AssemblyInfoInputs.cache
+D:\MISA-Web\web202307\mf1743-dtthanh\aspnetcoreapi\MISA.WebFresher\MISA.WebFresher.Application\obj\Debug\net6.0\MISA.WebFresher.Application.AssemblyInfo.cs
+D:\MISA-Web\web202307\mf1743-dtthanh\aspnetcoreapi\MISA.WebFresher\MISA.WebFresher.Application\obj\Debug\net6.0\MISA.WebFresher.Application.csproj.CoreCompileInputs.cache
+D:\MISA-Web\web202307\mf1743-dtthanh\aspnetcoreapi\MISA.WebFresher\MISA.WebFresher.Application\obj\Debug\net6.0\MISA.WebFresher.Application.csproj.CopyComplete
+D:\MISA-Web\web202307\mf1743-dtthanh\aspnetcoreapi\MISA.WebFresher\MISA.WebFresher.Application\obj\Debug\net6.0\MISA.WebFresher.Application.dll
+D:\MISA-Web\web202307\mf1743-dtthanh\aspnetcoreapi\MISA.WebFresher\MISA.WebFresher.Application\obj\Debug\net6.0\refint\MISA.WebFresher.Application.dll
+D:\MISA-Web\web202307\mf1743-dtthanh\aspnetcoreapi\MISA.WebFresher\MISA.WebFresher.Application\obj\Debug\net6.0\MISA.WebFresher.Application.pdb
+D:\MISA-Web\web202307\mf1743-dtthanh\aspnetcoreapi\MISA.WebFresher\MISA.WebFresher.Application\obj\Debug\net6.0\ref\MISA.WebFresher.Application.dll

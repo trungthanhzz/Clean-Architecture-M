@@ -1,0 +1,14 @@
+D:\MISA-Web\web202307\mf1743-dtthanh\aspnetcoreapi\MISA.WebFresher\MISA.WebFresher.Domain\bin\Debug\net6.0\MISA.WebFresher.Domain.deps.json
+D:\MISA-Web\web202307\mf1743-dtthanh\aspnetcoreapi\MISA.WebFresher\MISA.WebFresher.Domain\bin\Debug\net6.0\MISA.WebFresher.Domain.dll
+D:\MISA-Web\web202307\mf1743-dtthanh\aspnetcoreapi\MISA.WebFresher\MISA.WebFresher.Domain\bin\Debug\net6.0\MISA.WebFresher.Domain.pdb
+D:\MISA-Web\web202307\mf1743-dtthanh\aspnetcoreapi\MISA.WebFresher\MISA.WebFresher.Domain\obj\Debug\net6.0\MISA.WebFresher.Domain.csproj.AssemblyReference.cache
+D:\MISA-Web\web202307\mf1743-dtthanh\aspnetcoreapi\MISA.WebFresher\MISA.WebFresher.Domain\obj\Debug\net6.0\MISA.WebFresher.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MISA-Web\web202307\mf1743-dtthanh\aspnetcoreapi\MISA.WebFresher\MISA.WebFresher.Domain\obj\Debug\net6.0\MISA.WebFresher.Domain.AssemblyInfoInputs.cache
+D:\MISA-Web\web202307\mf1743-dtthanh\aspnetcoreapi\MISA.WebFresher\MISA.WebFresher.Domain\obj\Debug\net6.0\MISA.WebFresher.Domain.AssemblyInfo.cs
+D:\MISA-Web\web202307\mf1743-dtthanh\aspnetcoreapi\MISA.WebFresher\MISA.WebFresher.Domain\obj\Debug\net6.0\MISA.WebFresher.Domain.csproj.CoreCompileInputs.cache
+D:\MISA-Web\web202307\mf1743-dtthanh\aspnetcoreapi\MISA.WebFresher\MISA.WebFresher.Domain\obj\Debug\net6.0\MISA.WebFresher.Domain.dll
+D:\MISA-Web\web202307\mf1743-dtthanh\aspnetcoreapi\MISA.WebFresher\MISA.WebFresher.Domain\obj\Debug\net6.0\refint\MISA.WebFresher.Domain.dll
+D:\MISA-Web\web202307\mf1743-dtthanh\aspnetcoreapi\MISA.WebFresher\MISA.WebFresher.Domain\obj\Debug\net6.0\MISA.WebFresher.Domain.pdb
+D:\MISA-Web\web202307\mf1743-dtthanh\aspnetcoreapi\MISA.WebFresher\MISA.WebFresher.Domain\obj\Debug\net6.0\ref\MISA.WebFresher.Domain.dll
+D:\MISA-Web\web202307\mf1743-dtthanh\aspnetcoreapi\MISA.WebFresher\MISA.WebFresher.Domain\obj\Debug\net6.0\MISA.WebFresher.Domain.Resource.ResourceVN.resources
+D:\MISA-Web\web202307\mf1743-dtthanh\aspnetcoreapi\MISA.WebFresher\MISA.WebFresher.Domain\obj\Debug\net6.0\MISA.WebFresher.Domain.csproj.GenerateResource.cache
